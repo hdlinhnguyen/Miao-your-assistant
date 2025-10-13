@@ -13,7 +13,7 @@ Load your document and ask any question as you want :), see:
 At the moment, for small-size files, it works well 💯 as the following:
 ![](images/miao1.png)
 
-But not yet perfect for the bigger ones, for example:
+But not yet always perfectly for the bigger ones, for example:
 ![](images/miao2.png)
 
 ## What it has done so far:
