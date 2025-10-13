@@ -7,13 +7,13 @@ Python · LangChain · watsonx.ai (Mistral 8x7B) · Chroma DB · Gradio
 
 ## 🧩 How it work:
 
-Load your document and ask any question as you want :)
+Load your document and ask any question as you want :), see:
 ![](images/miao0.png)
 
-At the moment, for small-size files, it works well 💯
+At the moment, for small-size files, it works well 💯 as the following:
 ![](images/miao1.png)
 
-But not yet perfect for the bigger ones, for example :">
+But not yet perfect for the bigger ones, for example:
 ![](images/miao2.png)
 
 Designed and implemented an intelligent assistant capable of reading, understanding, and summarizing complex documents in real time using a Retrieval-Augmented Generation (RAG) architecture.
