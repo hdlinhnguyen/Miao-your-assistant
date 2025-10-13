@@ -16,6 +16,7 @@ At the moment, for small-size files, it works well 💯 as the following:
 But not yet perfect for the bigger ones, for example:
 ![](images/miao2.png)
 
+## What it has done so far:
 Designed and implemented an intelligent assistant capable of reading, understanding, and summarizing complex documents in real time using a Retrieval-Augmented Generation (RAG) architecture.
 
 Built an end-to-end RAG pipeline: document loading, text chunking, embedding generation, and vector storage with Chroma for semantic search.
