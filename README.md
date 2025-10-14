@@ -6,8 +6,9 @@ Miao Assistant is an implementation of a Retrieval-Augmented Generation (RAG) sy
 Python · LangChain · watsonx.ai (Mistral 8x7B) · Chroma DB · Gradio
 
 ## 🧩 How it work:
+Running the code setup in the localapp folder and you will meet your Miao assistant, Miao can be shown as the following:
 
-Load your document and ask any question as you want :), see:
+First, load your document and ask any question as you want :), see:
 ![](images/miao0.png)
 
 At the moment, for small-size files, it works well 💯 as the following:
