@@ -24,7 +24,6 @@ But not yet always perfectly for the bigger ones, for example:
 
 - Developed a retriever–LLM QA bot with a Gradio interface, integrating watsonx.ai API (Mistral 8x7B) for contextual question answering and summarization.
 
-- Achieved high factual reliability, Grounded Answer Rate = 87.1 %, and Hallucination < 4 % on the test dataset.
 
 ## 💡 Future improvement:
 Currently optimizing for local deployment and large-file processing, after identifying performance bottlenecks on multi-MB PDF inputs
