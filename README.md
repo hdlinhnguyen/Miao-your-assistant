@@ -27,4 +27,4 @@ But not yet always perfectly for the bigger ones, for example:
 
 ## 💡 Future improvement:
 Currently optimizing for local deployment and large-file processing, after identifying performance bottlenecks on multi-MB PDF inputs
-and of course expect to be the best local assistant on a personal machine ;) 
+and of course expect to be the local assistant on a personal machine ;) 
